@@ -1,8 +1,4 @@
-choco install chocolatey -y
-
 choco install python --version 3.6.7 -y 
-choco install jre8 -y
-choco install autohotkey.portable -y
 
 choco install googlechrome -y
 
@@ -19,7 +15,7 @@ choco install notepadplusplus -y
 
 choco install virtualbox -y
 
-choco install telegram -y
-
 choco install bandizip -y
 choco install wox -y 
+chcon install mobaXterm -y 
+choco install microsoft-windows-terminal -y 
