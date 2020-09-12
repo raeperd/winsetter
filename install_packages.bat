@@ -18,7 +18,8 @@ choco install dependencywalker -y
 choco install procexp -y
 
 choco install bandizip -y
- 
+
 choco install microsoft-windows-terminal -y 
 choco install powertoys -y
 choco install mobaXterm -y
+choco install everything -y
