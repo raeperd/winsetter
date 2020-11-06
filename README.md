@@ -1,11 +1,12 @@
-# winsetter
-Windows setup scripts using chocolatey
+# Windows Application Installer
+Windows application setup script using chocolatey
 
 ## Getting started
-Run above script under administrator powershell
+1. Copy raw install.bat in this repository
+2. Run below script under **administrator** powershell
 
 ```shell
-./install_all.bat
+.\install.bat
 ```
 
-Files in this repository do what file name imply.
+And coffee time
